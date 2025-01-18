@@ -1,0 +1,16 @@
+.header {
+    background: linear-gradient(90deg, blue, red);     
+    color: #fff;
+  }
+
+.header-center {
+    display: flex;
+    justify-content: center; 
+    background: none; 
+    border: none; 
+}
+
+.header-center h3 {
+    color: #fff;
+    font-size: 2rem;
+}
