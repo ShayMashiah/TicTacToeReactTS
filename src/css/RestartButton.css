@@ -1,0 +1,18 @@
+.restart-button {
+    width: 10rem;
+    height: 4rem;
+    background: linear-gradient(90deg, blue, red); 
+    color: #fff; 
+    border: none; 
+    padding: 1rem 1rem; 
+    font-size: 1rem; 
+    font-weight: bold; 
+  }
+  
+  .restart-button:hover {
+    transform: scale(1.05); 
+  }
+  
+  .restart-button:active {
+    transform: scale(0.98); 
+  }
